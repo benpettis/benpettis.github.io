@@ -238,3 +238,15 @@ Here are the House p-values:
     </tr>
   </tbody>
 </table>
+
+Here are the different departments' budget allocations by Presidential party:
+
+![President](/img/president.png)
+
+Here are the different departments' budget allocations by Senate majority:
+
+![Senate](/img/senate.png)
+
+Here are the different departments' budget allocations by House majority:
+
+![House](/img/house.png)
