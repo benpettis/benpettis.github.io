@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Relationship between political parties and Congressional Budget
-image: /img/demrep.jpeg
+image: /img/demrep.png
 ---
 <html>
 <head>
