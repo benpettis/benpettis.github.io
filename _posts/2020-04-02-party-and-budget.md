@@ -3,7 +3,6 @@ layout: post
 title: Relationship between political parties and Congressional Budget
 image: /img/hello_world.jpeg
 ---
-<!DOCTYPE html>
 <html>
 <head>
   <style>
