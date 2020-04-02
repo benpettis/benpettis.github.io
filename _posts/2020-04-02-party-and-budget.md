@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Relationship between political parties and Congressional Budget
+title: Examining the Congressional Budget
+subtitle: Is there a relationship between political party and departmental budget allocation?
 image: /img/demrep.png
 ---
 <html>
