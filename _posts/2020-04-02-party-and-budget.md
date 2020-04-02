@@ -1,8 +1,8 @@
 layout: post
 title: Relationship between political parties and Congressional Budget
 image: /img/hello_world.jpeg
-## <!DOCTYPE html>
-## <html>
+<!DOCTYPE html>
+<html>
 <head>
   <style>
     .error {
@@ -35,4 +35,4 @@ image: /img/hello_world.jpeg
 
   </script>
 </body>
-## </html>
+</html>
