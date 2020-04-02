@@ -240,14 +240,14 @@ Here are the House p-values:
   </tbody>
 </table>
 
-Here are the different departments' budget allocations by Presidential party:
+Here are the DoD budget allocations by Presidential party:
 
 ![President](/img/president.png)
 
-Here are the different departments' budget allocations by Senate majority:
+Here are the DoD budget allocations by Senate majority:
 
 ![Senate](/img/senate.png)
 
-Here are the different departments' budget allocations by House majority:
+Here are the DoD budget allocations by House majority:
 
 ![House](/img/house.png)
