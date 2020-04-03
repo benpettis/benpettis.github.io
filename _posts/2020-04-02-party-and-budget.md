@@ -6,7 +6,7 @@ image: /img/demrep.png
 ---
 ### Sourcing and Preparing Data
 
-I sourced the historical budget data from the Obama White House [archives](https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/hist05z3.xls) and merged it with the party information found in [Wikipedia](https://en.wikipedia.org/wiki/Divided_government_in_the_United_States). I then divided the data by party majority and performed a t-test on the two datasets in order to find out if the differences in budget spending by party happened by chance. The calculated p-value gave a percentage of probability that it may have happened by chance.
+I sourced the historical budget data from the Obama White House [archives](https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/hist05z3.xls) and merged it with the party information found in [Wikipedia](https://en.wikipedia.org/wiki/Divided_government_in_the_United_States). I then calculated the change in spending each year. Afterwards, I divided the data by party majority and performed a t-test on the two datasets in order to find out if the differences in budget spending by party happened by chance. The calculated p-value gave a percentage of probability that it may have happened by chance.
 
 ### Visualizing Spending by Party Majority
 
