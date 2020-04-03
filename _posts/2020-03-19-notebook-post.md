@@ -4,7 +4,7 @@ title: My First Post
 image: /img/hello_world.jpeg
 ---
 
-# Lambda School Data Science Module 123
+# Lambda School - Data Science - Module 123
 
 ## Introduction to Bayesian Inference
 
