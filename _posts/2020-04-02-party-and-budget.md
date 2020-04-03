@@ -4,6 +4,11 @@ title: Examining the Congressional Budget
 subtitle: Is there a relationship between political party and departmental budget allocation?
 image: /img/demrep.png
 ---
+### Sourcing and Preparing Data
+
+I sourced the historical budget data from the Obama White House [archives](https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/hist05z3.xls) and merged it with the party information found in [Wikipedia](https://en.wikipedia.org/wiki/Divided_government_in_the_United_States). I then divided the data by party majority and performed a t-test on the two datasets in order to find out if the differences in budget spending by party happened by chance. The calculated p-value gave a percentage of probability that it may have happened by chance.
+
+### Visualizing Spending by Party Majority
 
 Below is a heatmap showing yearly change in percentage of budget allocation for each department with colors indicating the party majority (dark red being all Republicans and dark blue being all Democrats in the Senate, House, and Presidential seat). The intensity of the color represents the degree of yearly change in spending. 
 
@@ -43,8 +48,12 @@ Below is a heatmap showing yearly change in percentage of budget allocation for 
 </body>
 </html>
 
+### Visualizing Differences in DoD Spending by Party
+
 Calculating the p-values of Republican vs Democrat majorities in the Senate and House, as well as Presidential seat, the only combination with a value of less than .05 (which would indicate a significant difference between the two parties) is the Department of Defense and Senate, with a p-value of 0.016266. This would indicate that the Senate may have more leverage in the budget allocation of the DoD. The mean of change in percent of allocation for this department is .045 for Republicans and -0.69 for Democrats. Below is a chart representing the change in percent of allocation for the Department of Defense with red indicating Republican majority and blue indicating Democrat majority in the Senate.
 
 ![DoD Diff](/img/doddiff.png)
 
-In conclusion, while there are many outside factors that may be taken into account when analyzing congressional budgets, the data shows that on average, Republican Senate majorities do tend to coincide with increased spending in the Department of Defense.
+### Conclusion
+
+While there are many outside factors that may be taken into account when analyzing congressional budgets, the data shows that on average, Republican Senate majorities do tend to coincide with increased spending in the Department of Defense.
