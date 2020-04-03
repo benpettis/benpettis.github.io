@@ -50,9 +50,13 @@ Below is a heatmap showing yearly change in percentage of budget allocation for 
 
 ### Visualizing Differences in DoD Spending by Party
 
-Calculating the p-values of Republican vs Democrat majorities in the Senate and House, as well as Presidential seat, the only combination with a value of less than .05 (which would indicate a significant difference between the two parties) is the Department of Defense and Senate, with a p-value of 0.016266. This would indicate that the Senate may have more leverage in the budget allocation of the DoD. The mean of change in percent of allocation for this department is .045 for Republicans and -0.69 for Democrats. Below is a chart representing the change in percent of allocation for the Department of Defense with red indicating a Republican majority and blue indicating a Democratic majority in the Senate.
+Calculating the p-values of Republican vs Democrat majorities in the Senate and House, as well as Presidential seat, the only combination with a value of less than .05 (which would indicate a significant difference between the two parties) is the Department of Defense and Senate, with a p-value of 0.016266. This would indicate that the Senate may have more leverage in the budget allocation of the DoD. The mean of change in percent of allocation for this department is .045 for Republicans and -0.69 for Democrats. Below is a chart representing the yearly change in percent of allocation for the Department of Defense with red indicating a Republican majority and blue indicating a Democratic majority in the Senate.
 
 ![DoD Diff](/img/doddiff.png)
+
+For a different picture, here are the yearly percentages of budget allocations for the DoD:
+
+![DoD Total](/img/dodtotal.png)
 
 ### Conclusion
 
