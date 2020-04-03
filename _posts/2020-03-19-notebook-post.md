@@ -1,6 +1,6 @@
 ---
 layout: post
-title: notebook post
+title: My First Post
 image: /img/hello_world.jpeg
 ---
 
