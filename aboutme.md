@@ -7,4 +7,4 @@ I enjoy using data science to try to understand various aspects of existence. I 
 
 ### My History
 
-My personal life has been quite interesting. I've lived all over the country, from a farm in Georgia to a mansion in the Hollwood Hills to a Lakota Sioux reservation in South Dakota and a piece of cardboard in a parking lot while making a documentary on homelessness. At some point I will probably write my memoirs, as a few have told me I should. Professionally, I've worked in IT for over 20 years.
+My personal life has been quite interesting. I've lived all over the country, from a farm in Georgia and a mansion in the Hollwood Hills to a Lakota Sioux reservation in South Dakota and a piece of cardboard in a parking lot while making a documentary on homelessness. At some point I will probably write my memoirs, as a few have told me I should. Professionally, I've worked in IT for over 20 years.
