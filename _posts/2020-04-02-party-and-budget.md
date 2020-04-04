@@ -6,7 +6,7 @@ image: /img/demrep.png
 ---
 ### Sourcing and Preparing Data
 
-I sourced the historical budget data from the Obama White House [archives](https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/hist05z3.xls) and merged it with the party information found in [Wikipedia](https://en.wikipedia.org/wiki/Divided_government_in_the_United_States). I then calculated the change in budget allocation percentages each year. Afterwards, I divided the data by party majority and performed a t-test on the two datasets in order to find out if the differences in budget allocation by party happened by chance. The calculated p-value gave a percentage of probability that it may have happened by chance. The lower the p-value, the more likely that there is a difference between the two parties' influence on budget allocation.
+I sourced the historical budget data from the Obama White House [archives](https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/hist05z3.xls) and merged it with the party information found in [Wikipedia](https://en.wikipedia.org/wiki/Divided_government_in_the_United_States). I then calculated the change in budget allocation percentages each year. Afterwards, I divided the data by party majority and performed a t-test on the two datasets in order to find out if the differences in budget allocation by party happened by chance. The derived p-value gives a percentage of probability that it may have happened by chance. The lower the p-value, the more likely that there is a difference between the two parties' influence on budget allocation not attributed to chance.
 
 ### Visualizing Budget Allocation by Party Majority
 
