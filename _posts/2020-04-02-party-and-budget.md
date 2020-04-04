@@ -60,4 +60,4 @@ For a different picture, here are the yearly percentages of budget allocations f
 
 ### Conclusion
 
-While there are many outside factors that may be taken into account when analyzing congressional budgets, the data shows that on average, Senate sessions with Republican majorities do tend to correlate with a slightly increased yearly budget allocation, on average, for the Department of Defense.
+While there are many outside factors that may be taken into account when analyzing congressional budgets, the data shows that on average, Senate sessions with Republican majorities do tend to correlate with a slightly increased yearly change in budget allocation, on average, for the Department of Defense.
