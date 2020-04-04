@@ -50,7 +50,7 @@ Below is a heatmap showing yearly change in percentage of budget allocation for 
 
 ### Visualizing Differences in Department of Defense Budget Allocation by Party
 
-Calculating the p-values of Republican vs Democrat majorities in the Senate and House, as well as Presidential seat, the only combination with a value of less than .05 (which would indicate a significant difference between the two parties) is the Department of Defense and Senate, with a p-value of 0.016266. This would indicate that the Senate may have more leverage in the budget allocation of the DoD. The mean of change in percent of allocation for this department is .045 for Republicans and -0.69 for Democrats. Below is a chart representing the yearly change in percent of allocation for the DoD with red indicating a Republican majority and blue indicating a Democratic majority in the Senate.
+After calculating the p-values of Republican vs Democrat majorities in the Senate and House, as well as Presidential seat, the only combination I found with a p-value of less than 5% (which would indicate a significant difference between the two parties) is the Department of Defense and Senate, with a p-value of 1.627%. This would indicate that the Senate may have more leverage in deciding the budget allocation of the DoD. The mean of yearly change in percent of budget allocation for this department is +0.447% for Republicans and -0.691% for Democrats. Below is a chart representing the yearly change in percent of allocation for the DoD with red indicating a Republican majority and blue indicating a Democratic majority in the Senate.
 
 ![DoD Diff](/img/doddiff.png)
 
@@ -60,4 +60,4 @@ For a different picture, here are the yearly percentages of budget allocations f
 
 ### Conclusion
 
-While there are many outside factors that may be taken into account when analyzing congressional budgets, the data shows that on average, Republican Senate majorities do tend to coincide with increased budget allocations for the Department of Defense.
+While there are many outside factors that may be taken into account when analyzing congressional budgets, the data shows that on average, Senate sessions with Republican majorities do tend to correlate with a slightly increased yearly budget allocation, on average, for the Department of Defense.
