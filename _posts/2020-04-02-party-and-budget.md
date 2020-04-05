@@ -10,7 +10,7 @@ I sourced the historical budget data from the Obama White House [archives](https
 
 ### Visualizing Budget Allocation by Party Majority
 
-Below is a heatmap showing yearly change in percentage of budget allocation for each department with colors indicating the party majority (dark red being all Republicans and dark blue being all Democrats in the Senate, House, and Presidential seat). The opacity of the color represents the degree of yearly change in budget allocation. Hovering over each square (or tapping, if you're on a touch device) gives detailed information.
+Below is a heatmap showing yearly change in percentage of budget allocation for each department with colors indicating the party majority (dark red being all Republicans and dark blue being all Democrats in the Senate, House, and Presidential seat). The opacity of the color represents the degree of yearly change in budget allocation. Hovering over each square (or tapping, if you're using a touch device) gives detailed information.
 
 
 <html>
